@@ -1,0 +1,4 @@
+﻿  UnitTest10.1CCC.cpp
+D:\programyvanya\10.1CCC\10.1CCC\10.1CCC.cpp(15,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library D:\programyvanya\10.1CCC\x64\Debug\UnitTest10.1CCC.lib and object D:\programyvanya\10.1CCC\x64\Debug\UnitTest10.1CCC.exp
+  UnitTest10.1CCC.vcxproj -> D:\programyvanya\10.1CCC\x64\Debug\UnitTest10.1CCC.dll
